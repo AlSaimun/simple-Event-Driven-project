@@ -1,5 +1,5 @@
 # simple-Event-Driven-project
-<br/>
+
 ## How to run.
 1. Run main.py file
 ```
